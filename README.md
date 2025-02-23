@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">a 16 year-old serial tech startup founde, aerospace & software engineer.<br>
+<p align="left">a 16 year-old serial tech startup founder, aerospace & software engineer.<br>
   <br>📫 How to reach me azekowka.vercel.app</p>
 
 ###
