@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=azekowka.azekowka](https://visitor-badge.laobi.icu/badge?page_id=azekowka.azekowka)&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=azekowka.azekowka" />
 </div>
 
 ###
