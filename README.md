@@ -46,6 +46,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=azekowka.azekowka" />
 </div>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ###
