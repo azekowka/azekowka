@@ -7,7 +7,7 @@
 ###
 
 <p align="left">a 16 year-old serial tech startup founder, aerospace & software engineer.<br>
-  <br>📫 How to reach me gabjtov@gmail.com</p>
+  <br>📫 How to reach me gabjtov@gmail.com, t.me/azekowka</p>
 
 ###
 
