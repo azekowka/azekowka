@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Tech Stack (not complete):</h2>
 
 ###
 
