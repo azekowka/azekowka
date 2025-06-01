@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hello there! I'm Azekowka,</h1>
+<h1 align="left">I'm Azekowka,</h1>
 
 ###
 
