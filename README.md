@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">a software engineer, ex-aerospace engineer, and entrepreneur<br>
+<p align="left">a software engineer, ai engineer, design engineer, ex-aerospace engineer, and entrepreneur<br>
   <br>📫 How to reach me gabjtov@gmail.com, t.me/azekowka</p>
 
 ###
