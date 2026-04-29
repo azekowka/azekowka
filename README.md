@@ -4,22 +4,7 @@ I’m [**Aziz**](https://www.azekowka.me), a full stack software & AI engineer, 
 
 I design and build whatever I can imagine.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
-
-My main tech stack is Python, React, Next.js, TypeScript, TailwindCSS, and Framer Motion. My favorite tools are Langchain, AWS S3 & Lambda, Supabase, pnpm and uv.
-
-I’ve got a bunch of pinned projects, but my favorite is the [Tarly AI](https://github.com/azekowka/Tarly).
-
-I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
-
-#### Fun Facts:
-
-* Top #30 most active GitHub users in Kazakhstan [see](https://committers.top/kazakhstan_private)
-* Selected for Central Asia’s top AI bootcamp, nFactorial Incubator (2.5% acceptance rate), focused on web, mobile and AI technologies.
-* Covered my entire pocket money for a whole year from hackathon prizes (≈ $5,000 in total)
-* **Hobbies:** football, mixed martial arts, Crusader Kings 3, gym, exploring UI libraries and YCombinator startup directory
-
-<h2 align="left">Tech Stack (not complete):</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
